@@ -1,0 +1,11 @@
+{
+  "name": "dankali",
+  "version": "1.0.0",
+  "description": "Dankali - iibinta data internet (user app + admin) ",
+  "type": "module",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node test.js" },
+  "engines": { "node": ">=22.13" },
+  "license": "UNLICENSED",
+  "private": true
+}
